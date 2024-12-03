@@ -22,11 +22,11 @@ Este es un proyecto de Spring Boot que consume la API externa de **JSONPlacehold
 
 Este proyecto consta de una aplicación **Spring Boot** que hace uso de **RestTemplate** para consumir la API externa de **JSONPlaceholder** (https://jsonplaceholder.typicode.com/users). El objetivo principal es:
 
-1. Consumir la lista de usuarios desde la API externa.
-2. Exponer un endpoint REST para devolver la lista de usuarios en formato JSON.
-3. Implementar manejo de errores para el consumo de la API.
-4. Incluir pruebas unitarias para asegurar que el servicio funciona correctamente.
-5. Implementar caché para almacenar la respuesta de la API durante 5 minutos.
+- 1. Consumir la lista de usuarios desde la API externa.
+- 2. Exponer un endpoint REST para devolver la lista de usuarios en formato JSON.
+- 3. Implementar manejo de errores para el consumo de la API.
+- 4. Incluir pruebas unitarias para asegurar que el servicio funciona correctamente.
+- 5. Implementar caché para almacenar la respuesta de la API durante 5 minutos.
 
 ## Endpoints Expuestos
 
