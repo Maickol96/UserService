@@ -50,7 +50,7 @@ Este endpoint devuelve la lista de usuarios obtenida de la API externa **JSONPla
         "username": "Antonette",
         "email": "Shanna@melissa.tv"
     }
-    ...
+    
 ]
 ```
 
