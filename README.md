@@ -60,18 +60,18 @@ Respuesta de Error:
     "details": "Connection refused"
 }
 
-Instrucciones de Instalación
-1. Clonar el Repositorio
-Clona este repositorio en tu máquina local:
-git clone https://github.com/Maickol96/UserService
+## Instrucciones de Instalación
+- 1. Clonar el Repositorio
+## Clona este repositorio en tu máquina local:
+-git clone https://github.com/Maickol96/UserService
 
-2. Compilar y Ejecutar el Proyecto
-  mvn spring-boot:run
+## 2. Compilar y Ejecutar el Proyecto
+- mvn spring-boot:run
 
-Esto iniciará el servidor en http://localhost:8080 por defecto.
+- Esto iniciará el servidor en http://localhost:8080 por defecto.
 
-Puedes probar el endpoint de la API usando herramientas como Postman o curl:
+## Puedes probar el endpoint de la API usando herramientas como Postman o curl:
 
-Postman:
-Método: GET
-URL: http://localhost:8080/api/users
+## Postman:
+- Método: GET
+- URL: http://localhost:8080/api/users
