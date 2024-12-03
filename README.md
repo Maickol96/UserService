@@ -8,7 +8,7 @@ Este es un proyecto de Spring Boot que consume la API externa de **JSONPlacehold
 - **Java 17**
 - **Maven** para gestión de dependencias
 - **JUnit 5** para pruebas unitarias
-- **Lombok** (opcional, pero recomendado para evitar código repetitivo)
+- **Lombok**
 - **RestTemplate** para consumo de API externa
 - **Spring Cache** para manejo de caché
 
